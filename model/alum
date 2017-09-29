@@ -1,8 +1,12 @@
 public class alum(){
     public alum(){
     	//code her
-   }	
 
+
+   }	
+    public void execute(){
+    	//code her
+    }
 
 
 }
